@@ -1,0 +1,8 @@
+﻿Group: Widgets
+FriendlyName: New Products
+SystemName: Widgets.NewProducts
+Version: 1.20
+SupportedVersions: 3.70
+Author: Daniel Jelev
+DisplayOrder: 1
+FileName: Nop.Plugin.Widgets.NewProducts.dll
